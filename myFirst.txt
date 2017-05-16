@@ -1,0 +1,5 @@
+Hi
+this is my first git project.
+trying to learn git through command line.
+I created 2 branches master and dev.
+
